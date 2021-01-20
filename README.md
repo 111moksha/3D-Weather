@@ -9,7 +9,7 @@ Web Link : https://111moksha.github.io/3D-Weather/
 ## SCREENSHOTS :
 
 ```diff
-+ Calculator :
++ Weather 3D :
 
 ```
 

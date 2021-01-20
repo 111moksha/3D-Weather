@@ -5,3 +5,13 @@ Developed application that displays meteorological data of the world and provide
 This application helps to monitor weather changes to predict future challenges.
 
 Web Link : https://111moksha.github.io/3D-Weather/
+
+## SCREENSHOTS :
+
+```diff
++ Calculator :
+
+```
+
+![Screenshot](Screenshot.png) 
+
